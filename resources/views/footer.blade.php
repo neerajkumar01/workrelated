@@ -3,5 +3,4 @@
     Panel content
   </div>
   <div class="panel-footer">Panel footer</div>
-  <!--  -->
 </div>
